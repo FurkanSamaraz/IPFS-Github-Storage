@@ -23,4 +23,8 @@ hash: QmWcsds2GA179z883q5q1EaJs1vRCRTESbrEDghCXFA9J7
 Key: abc&1*~#^2^#s0^=)^^7%b34
 
 
+#Diagram
+<img width="408" alt="Ekran Resmi 2022-11-01 17 44 22" src="https://user-images.githubusercontent.com/92402372/199261405-42066339-19e2-42a5-b0ad-74475dcecdd7.png">
+
+
 ! In trial phase !
