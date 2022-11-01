@@ -24,7 +24,8 @@ Key: abc&1*~#^2^#s0^=)^^7%b34
 
 
 # Diagram
-<img width="408" alt="Ekran Resmi 2022-11-01 17 44 22" src="https://user-images.githubusercontent.com/92402372/199261405-42066339-19e2-42a5-b0ad-74475dcecdd7.png">
+<img width="411" alt="Ekran Resmi 2022-11-01 17 48 12" src="https://user-images.githubusercontent.com/92402372/199262200-7884af5e-3be1-4013-9a75-710f442b1a37.png">
+
 
 
 ! In trial phase !
