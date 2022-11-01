@@ -26,6 +26,11 @@ Key: abc&1*~#^2^#s0^=)^^7%b34
 # Diagram
 <img width="411" alt="Ekran Resmi 2022-11-01 17 48 12" src="https://user-images.githubusercontent.com/92402372/199262200-7884af5e-3be1-4013-9a75-710f442b1a37.png">
 
+# Video
+
+
+https://user-images.githubusercontent.com/92402372/199265615-2fcd9fc6-ee7f-4c98-ab38-ab56a38f55ff.mov
+
 
 
 ! In trial phase !
